@@ -4,7 +4,7 @@ name := "scala-ftp"
 
 organization := "uk.co.bbc"
 
-version := "1.0"
+version := "2.0-SNAPSHOT"
 
 scalaVersion := "2.11.2"
 
